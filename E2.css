@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;    
+}
+p{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.back{
+    background-color: silver;
+    text-align: center;
+}
+.cent{
+    text-align: center;
+}
+.red{
+    color:red;
+}
+.right{
+    text-align: right;
+    font-size: 20px;
+}
